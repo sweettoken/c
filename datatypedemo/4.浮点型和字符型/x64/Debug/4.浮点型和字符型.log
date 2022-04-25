@@ -1,0 +1,3 @@
+﻿  main.c
+D:\cdevelop\datatypedemo\4.浮点型和字符型\main.c(5,1): warning C4305: “初始化”: 从“double”到“float”截断
+  4.浮点型和字符型.vcxproj -> D:\cdevelop\datatypedemo\x64\Debug\4.浮点型和字符型.exe
